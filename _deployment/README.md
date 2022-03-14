@@ -1,1 +1,1 @@
-Tukaj je deploy-ready koda.
+Tukaj je koda potrebna za deploy.
