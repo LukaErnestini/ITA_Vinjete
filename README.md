@@ -1,2 +1,2 @@
-# ITA_Vinjete
+# E-Vinjete
 IT Arhitekture naloga
