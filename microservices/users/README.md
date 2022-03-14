@@ -7,6 +7,11 @@ Urejanje podatkov
 
 Potrjevanje telefonske stevilke
 
+Pregled veljavnih in preteklih vinjet
+
+Obvestilo po SMS in mail o skorajsnjem preteku vinjete
+
+Avtomatski nakup vinjete po preteku
 
 # Nefunkcionalne zahteve:
 SMS sporocilo prispe v manj kot minuti
